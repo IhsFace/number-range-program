@@ -1,0 +1,17 @@
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\bin\Debug\net6.0-windows\Number Range Program.exe
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\bin\Debug\net6.0-windows\Number Range Program.deps.json
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\bin\Debug\net6.0-windows\Number Range Program.runtimeconfig.json
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\bin\Debug\net6.0-windows\Number Range Program.dll
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\bin\Debug\net6.0-windows\Number Range Program.pdb
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.vbproj.AssemblyReference.cache
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number_Range_Program.Form1.resources
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.vbproj.GenerateResource.cache
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.AssemblyInfoInputs.cache
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.AssemblyInfo.vb
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.dll
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\refint\Number Range Program.dll
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.pdb
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\Number Range Program.genruntimeconfig.cache
+F:\GitHub Projects\number-range-program\Number Range Program\Number Range Program\obj\Debug\net6.0-windows\ref\Number Range Program.dll
